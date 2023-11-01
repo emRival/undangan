@@ -2,7 +2,7 @@
 
 ## Demo
 
-<https://dewanakl.github.io/undangan/?to=Teman+teman+semua>
+<https://emRival.github.io/undangan/?to=Teman+teman+semua>
 
 ### Deployment API Vercel
 
